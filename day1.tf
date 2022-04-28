@@ -91,3 +91,7 @@ resource "azurerm_linux_virtual_machine" "example" {
 #multiple VMs
 #dynamic block for subnet
 #create network security rules using loop
+
+#pascal
+#camel
+#azurermResourceGroup
